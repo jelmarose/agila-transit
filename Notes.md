@@ -11,6 +11,7 @@
 - Dependency Injection - e.g services declared in the constructor of the controller
 
 ### Commands
+- `npm run start:dev` - run nestjs localhost 
 - `nest g module [name]` - creates new module inside [name] folder
 - `nest g controller [name]` - creates new controller inside [name] folder
 - `nest g service [name]` - creates new service inside [name] folder
