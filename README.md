@@ -17,4 +17,4 @@ April 6, 2025
 - 2:50 - 3:20 - updated object definitions in to do list
 - 3:20 - 3:40 - break
 - 3:40 - 4:58 - added program logic document
-- 4:58 - update to do with new tasks, moved old tasks under tentative
+- 4:58 - 5:45 - updated to do with new tasks, moved old tasks under tentative

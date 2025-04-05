@@ -3,7 +3,8 @@
 ### Front End
 - Homepage
 - Cabins
-- Booking Page
+- Book a Trip
+- Check Booking
 
 ### Back End
 - Cabins
@@ -15,6 +16,7 @@
     - Generate Timetable
 - Bookings
     - Create Booking
+    - Get Booking by Control Number
     - (Tentative)
         - Get Bookings
         - Get Bookings By Account Id
@@ -26,11 +28,25 @@
 Booking
 - id : string
 - control number : string
-- is guest : boolean
-- profile : Profile (account id is just 00000 if guest)
+- profile : GuestInfo
+- totalGuests: number
+- timetable : Timetable
+- cabinType: Cabin
+- totalPrice : number 
+
+Timetable
 - departure date : Date
-- departure terminal : Terminal
-- arrival terminal : Terminal
+- departure time : Time?
+- arrival time : Time?
+- origin terminal : Terminal
+- destination terminal : Terminal
+- price : number
+
+Guest Info
+- first name : strring
+- last name : string
+- email : string
+- contact no: string
 
 Terminal
 - id: string
