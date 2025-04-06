@@ -12,6 +12,8 @@
     - Get Cabin By Id
 - Terminals
     - Get Terminals
+    - Get Terminal By Region
+    - Get Regions
 - Timetables
     - Generate Timetable
 - Bookings
@@ -48,10 +50,15 @@ Guest Info
 - email : string
 - contact no: string
 
+Region
+- id: string
+- name: string
+- code: string
+
 Terminal
 - id: string
 - name : string
-- code: string
+- region: Region
 
 Cabin
 - id : string

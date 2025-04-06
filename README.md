@@ -21,3 +21,6 @@ April 6, 2025
 - 5:45 - 6:04 - added cabins module for backend
 - 6:04 - 7:22 - break
 - 7:22 - 7:30 - added bookings, terminals and timetables module for backend
+- 7:30 - 8:23 - terminals module ongoing
+- 8:23 - 9:16 - break
+- 9:16 - 9:24 - terminals module done
