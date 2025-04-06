@@ -7,10 +7,10 @@
 - Check Booking
 
 ### Back End
-- Cabins
+- Cabins [DONE]
     - Get Cabins
     - Get Cabin By Id
-- Terminals
+- Terminals [DONE]
     - Get Terminals
     - Get Terminal By Region
     - Get Regions

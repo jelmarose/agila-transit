@@ -24,3 +24,4 @@ April 6, 2025
 - 7:30 - 8:23 - terminals module ongoing
 - 8:23 - 9:16 - break
 - 9:16 - 9:24 - terminals module done
+- 9:24 - 9:36 - cabins module done
