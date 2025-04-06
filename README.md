@@ -19,4 +19,5 @@ April 6, 2025
 - 3:40 - 4:58 - added program logic document
 - 4:58 - 5:45 - updated to do with new tasks, moved old tasks under tentative
 - 5:45 - 6:04 - added cabins module for backend
-- 6:04 - break
+- 6:04 - 7:22 - break
+- 7:22 - 7:30 - added bookings, terminals and timetables module for backend
