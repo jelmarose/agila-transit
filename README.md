@@ -25,3 +25,7 @@ April 6, 2025
 - 8:23 - 9:16 - break
 - 9:16 - 9:24 - terminals module done
 - 9:24 - 9:36 - cabins module done
+- 9:41 - 11:49 - timetables module ongoing
+
+April 8, 2025
+- 12:00 - 12:24 - timetables module done
