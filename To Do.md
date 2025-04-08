@@ -14,9 +14,9 @@
     - Get Terminals
     - Get Terminal By Region
     - Get Regions
-- Timetables
+- Timetables [DONE]
     - Generate Timetable
-- Bookings
+- Bookings [DONE]
     - Create Booking
     - Get Booking by Control Number
     - (Tentative)

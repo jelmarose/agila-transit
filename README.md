@@ -29,3 +29,4 @@ April 6, 2025
 
 April 8, 2025
 - 12:00 - 12:24 - timetables module done
+- 12:25 - 1:21  - bookings module done
